@@ -1,5 +1,5 @@
 # EnigmaCipher
-
+[![C/C++ CI](https://github.com/Adarsh-Liju/EnigmaCipher/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Adarsh-Liju/EnigmaCipher/actions/workflows/c-cpp.yml)
 ## Synopsis
 
 Encryption and decryption using enigma algorithm - A highly reliable and secure way of protecting your data.
